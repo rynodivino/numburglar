@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/rynodivino/numburglar.png)](https://travis-ci.org/rynodivino/numburglar)
 numburglar
 ==========
 
