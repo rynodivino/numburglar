@@ -1,0 +1,23 @@
+{
+  "name": "numburglar",
+  "version": "0.0.0",
+  "description": "Grab numbers off financial websites.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rynodivino/numburglar.git"
+  },
+  "keywords": [
+    "rule1",
+    "rynodivino"
+  ],
+  "author": "rynodivino",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/rynodivino/numburglar/issues"
+  },
+  "homepage": "https://github.com/rynodivino/numburglar"
+}
