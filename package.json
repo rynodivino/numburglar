@@ -16,9 +16,12 @@
     "numburglar"
   ],
   "author": "rynodivino",
-  "license": "BSD-2-Clause",
+  "license": "BSD",
   "bugs": {
     "url": "https://github.com/rynodivino/numburglar/issues"
   },
-  "homepage": "https://github.com/rynodivino/numburglar"
+  "homepage": "https://github.com/rynodivino/numburglar",
+  "devDependencies": {
+    "tap": "~0.4.6"
+  }
 }
